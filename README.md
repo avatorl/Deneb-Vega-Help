@@ -34,7 +34,7 @@ My web-site with embedded live Vega vsiualizations: https://powerofbi.org/deneb-
 
 My Github repository of Deneb Vega Templates for FT Visual Vocabulary chart types: https://github.com/avatorl/Deneb-Vega-Templates
 
-## What can be created using Vega?
+## What can be created using Vega and Deneb?
 
 ### A satic poster
 
@@ -45,4 +45,13 @@ My Github repository of Deneb Vega Templates for FT Visual Vocabulary chart type
 ![Power BI - HR Cross-Functional Mobility v2 01 (by Andrzej Leszkiewicz)](https://github.com/avatorl/Deneb-Vega-Help/assets/59934292/0740e6f6-c5b3-4009-8745-94ac344d3d3a)
 
 This interactive report is based on a single instance of Deneb visual ([try live report](https://app.powerbi.com/view?r=eyJrIjoiNzZmOGVlNmItZGNiNC00NGQzLTk1ZmEtYjFlYzA5MDQzZTFiIiwidCI6IjYzNjBkMTZhLTk3MWQtNGQzMC1hOWE5LTdiY2I0ODUzMDhlMSIsImMiOjl9))
+
+### An interactive Power BI report
+
+![Power BI - Climate Change Dashboard (black background) (by Andrzej Leszkiewicz, 2023)](https://github.com/avatorl/Deneb-Vega-Help/assets/59934292/2d3391bc-2754-492d-b3ff-8bb67b6913fc)
+
+This report exists in mutiple versions ([try live report](https://app.powerbi.com/view?r=eyJrIjoiOWUwOTQ3MzktY2ZkNS00MTI3LWE4NGItMzlkYjAyMDNjOTBlIiwidCI6IjYzNjBkMTZhLTk3MWQtNGQzMC1hOWE5LTdiY2I0ODUzMDhlMSIsImMiOjl9))
+
+
+
 
