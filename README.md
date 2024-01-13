@@ -63,7 +63,7 @@ This report exists in mutiple versions ([try live report](https://app.powerbi.co
 
 ![Power BI - Climate Change Dashboard v1](https://github.com/avatorl/Deneb-Vega-Help/assets/59934292/62606ad1-b426-472d-a526-be410b9f0e00)
 
-#### White Mode version
+#### Light Mode version
 
 The labels that function as a legend are visible only when the cursor is over the question mark.
 ![Power BI - Climate Change Dashboard v4](https://github.com/avatorl/Deneb-Vega-Help/assets/59934292/4fd2abfa-b12d-4043-a4cd-00a241feda29)
