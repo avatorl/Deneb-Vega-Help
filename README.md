@@ -48,7 +48,14 @@ This interactive report is based on a single instance of Deneb visual ([try live
 
 ### An interactive Power BI report
 
-![Power BI - Climate Change Dashboard (black background) (by Andrzej Leszkiewicz, 2023)](https://github.com/avatorl/Deneb-Vega-Help/assets/59934292/2d3391bc-2754-492d-b3ff-8bb67b6913fc)
+#### Dark Mode version
+
+![Power BI - Climate Change Dashboard v1](https://github.com/avatorl/Deneb-Vega-Help/assets/59934292/62606ad1-b426-472d-a526-be410b9f0e00)
+
+#### White Mode version
+
+The labels that works as a legend are visible only when cursor is over the question mark
+![Power BI - Climate Change Dashboard v4](https://github.com/avatorl/Deneb-Vega-Help/assets/59934292/4fd2abfa-b12d-4043-a4cd-00a241feda29)
 
 This report exists in mutiple versions ([try live report](https://app.powerbi.com/view?r=eyJrIjoiOWUwOTQ3MzktY2ZkNS00MTI3LWE4NGItMzlkYjAyMDNjOTBlIiwidCI6IjYzNjBkMTZhLTk3MWQtNGQzMC1hOWE5LTdiY2I0ODUzMDhlMSIsImMiOjl9))
 
