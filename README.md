@@ -38,15 +38,20 @@ My Github repository of Deneb Vega Templates for FT Visual Vocabulary chart type
 
 ### A satic poster
 
+More than 10,000 data points have been encoded into this floral cartogram.
+
 ![How Do We Govern Our World (by Andrzej Leszkiewicz, 2023)](https://github.com/avatorl/Deneb-Vega-Help/assets/59934292/b6b85bd9-6d0a-4ece-885f-013403c01d02)
 
 ### An interactive Power BI report
 
+This interactive report is based on a single instance of Deneb visual ([try live report](https://app.powerbi.com/view?r=eyJrIjoiNzZmOGVlNmItZGNiNC00NGQzLTk1ZmEtYjFlYzA5MDQzZTFiIiwidCI6IjYzNjBkMTZhLTk3MWQtNGQzMC1hOWE5LTdiY2I0ODUzMDhlMSIsImMiOjl9)).
+All the funcionality (slicers/options, cross-highlightig between multiple charts) has been implemented in Vega.
+
 ![Power BI - HR Cross-Functional Mobility v2 01 (by Andrzej Leszkiewicz)](https://github.com/avatorl/Deneb-Vega-Help/assets/59934292/0740e6f6-c5b3-4009-8745-94ac344d3d3a)
 
-This interactive report is based on a single instance of Deneb visual ([try live report](https://app.powerbi.com/view?r=eyJrIjoiNzZmOGVlNmItZGNiNC00NGQzLTk1ZmEtYjFlYzA5MDQzZTFiIiwidCI6IjYzNjBkMTZhLTk3MWQtNGQzMC1hOWE5LTdiY2I0ODUzMDhlMSIsImMiOjl9))
-
 ### An interactive Power BI report
+
+This report exists in mutiple versions ([try live report](https://app.powerbi.com/view?r=eyJrIjoiOWUwOTQ3MzktY2ZkNS00MTI3LWE4NGItMzlkYjAyMDNjOTBlIiwidCI6IjYzNjBkMTZhLTk3MWQtNGQzMC1hOWE5LTdiY2I0ODUzMDhlMSIsImMiOjl9)).
 
 #### Dark Mode version
 
@@ -56,8 +61,6 @@ This interactive report is based on a single instance of Deneb visual ([try live
 
 The labels that function as a legend are visible only when the cursor is over the question mark.
 ![Power BI - Climate Change Dashboard v4](https://github.com/avatorl/Deneb-Vega-Help/assets/59934292/4fd2abfa-b12d-4043-a4cd-00a241feda29)
-
-This report exists in mutiple versions ([try live report](https://app.powerbi.com/view?r=eyJrIjoiOWUwOTQ3MzktY2ZkNS00MTI3LWE4NGItMzlkYjAyMDNjOTBlIiwidCI6IjYzNjBkMTZhLTk3MWQtNGQzMC1hOWE5LTdiY2I0ODUzMDhlMSIsImMiOjl9))
 
 
 
