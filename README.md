@@ -70,10 +70,3 @@ This report exists in mutiple versions ([try live report](https://app.powerbi.co
 
 The labels that function as a legend are visible only when the cursor is over the question mark.
 ![Power BI - Climate Change Dashboard v4](https://github.com/avatorl/Deneb-Vega-Help/assets/59934292/4fd2abfa-b12d-4043-a4cd-00a241feda29)
-
-### Interactive custom data visualization
-
-![Bamboo Chart (by Andrzej Leszkieiwcz)](https://github.com/avatorl/Deneb-Vega-Help/assets/59934292/dd82fa00-ca28-4486-919b-d0239f28b070)
-
-
-
