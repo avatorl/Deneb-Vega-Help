@@ -54,7 +54,7 @@ This interactive report is based on a single instance of Deneb visual ([try live
 
 #### White Mode version
 
-The labels that works as a legend are visible only when cursor is over the question mark
+The labels that function as a legend are visible only when the cursor is over the question mark.
 ![Power BI - Climate Change Dashboard v4](https://github.com/avatorl/Deneb-Vega-Help/assets/59934292/4fd2abfa-b12d-4043-a4cd-00a241feda29)
 
 This report exists in mutiple versions ([try live report](https://app.powerbi.com/view?r=eyJrIjoiOWUwOTQ3MzktY2ZkNS00MTI3LWE4NGItMzlkYjAyMDNjOTBlIiwidCI6IjYzNjBkMTZhLTk3MWQtNGQzMC1hOWE5LTdiY2I0ODUzMDhlMSIsImMiOjl9))
