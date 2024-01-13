@@ -1,10 +1,14 @@
 # Deneb-Vega-Help
 
-I've joined [Deneb Support initiative](https://deneb-viz.github.io/support).
+I've joined Deneb Support initiative.
 
 Create an issue to get help with Deneb/Vega data visualizations. 
 
 ## How to Get Your Question Answered Fast?
+
+### Get familiar with the initiative
+
+Read https://deneb-viz.github.io/support for more details about the initiative and contact information for other Deneb/Vega/Vega-Lite experts
 
 ### Do some research
 Before creating an issue here, check to see if someone else has solved a similar issue.
@@ -20,6 +24,7 @@ If you have drafted a Vega specification, please provide it. If you can share a 
 I do not work with Vega-Lite; I prefer the full functionality of Vega.
 Feel free to ask any questions regarding Vega, but I'll have to ignore Vega-Lite questions simply because I have never attempted to learn it.
 Vega-Lite compile its specifications to Vega specifications, therefore if you have Vega-Lite code but are okay with converting it into Vega code, let me know.
+
 
 ## Open Source Examples of my Vega Visualizations
 
@@ -39,5 +44,5 @@ My Github repository of Deneb Vega Templates for FT Visual Vocabulary chart type
 
 ![Power BI - HR Cross-Functional Mobility v2 01 (by Andrzej Leszkiewicz)](https://github.com/avatorl/Deneb-Vega-Help/assets/59934292/0740e6f6-c5b3-4009-8745-94ac344d3d3a)
 
-[try live report](https://app.powerbi.com/view?r=eyJrIjoiNzZmOGVlNmItZGNiNC00NGQzLTk1ZmEtYjFlYzA5MDQzZTFiIiwidCI6IjYzNjBkMTZhLTk3MWQtNGQzMC1hOWE5LTdiY2I0ODUzMDhlMSIsImMiOjl9)
+This interactive report is based on a single instance of Deneb visual ([try live report](https://app.powerbi.com/view?r=eyJrIjoiNzZmOGVlNmItZGNiNC00NGQzLTk1ZmEtYjFlYzA5MDQzZTFiIiwidCI6IjYzNjBkMTZhLTk3MWQtNGQzMC1hOWE5LTdiY2I0ODUzMDhlMSIsImMiOjl9))
 
