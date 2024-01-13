@@ -26,15 +26,15 @@ Be prepared to clearly describe what you're trying to achieve and the problem; b
 ### Provide
 If you have drafted a Vega specification, please provide it. If you can share a .pbix file that includes your Deneb/Vega visualization, share it. If you can't share a .pbix file, share the Vega specification (.json file) and a data sample (.csv file).
 
+## Disclaimer of Warranties and Limitation of Liability
+
+I'm sorry if there are any delays in my responses to your requests. I'm dedicating my free time to this project. There are clients, family, and life offline. No promises or guarantees are made. I am not responsible for the quality, accuracy, reliability, or any other aspect of my help. I will not be liable for any damages or losses arising from your use or inability to use my assistance.
+
 ## Vega or Vega-Lite?
 
 Vega-Lite is a syntax sugar for Vega with limited capabilities. I do not work with Vega-Lite; I prefer the full functionality of Vega.
 Feel free to ask any questions regarding Vega, but I'll have to ignore Vega-Lite questions and redirect you to other community experts (see [Deneb Support initiative](https://deneb-viz.github.io/support)) simply because I have never attempted to learn it.
 Vega-Lite compile its specifications to Vega specifications, therefore if you have Vega-Lite code but are okay with converting it into Vega code, let me know.
-
-## Disclaimer of Warranties and Limitation of Liability
-
-I'm sorry if there are any delays in my responses to your requests. I'm dedicating my free time to this project. There are clients, family, and life offline. No promises or guarantees are made. I am not responsible for the quality, accuracy, reliability, or any other aspect of my help. I will not be liable for any damages or losses arising from your use or inability to use my assistance.
 
 ## Open Source Examples of my Vega Visualizations
 
