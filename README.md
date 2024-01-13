@@ -1,4 +1,4 @@
-# Deneb-Vega-Help
+# Deneb Vega Help
 
 My name is Andrzej Leszkiewicz. I create highly customized and interactive data visualizations for Power BI using [Deneb custom visual](https://deneb-viz.github.io/).
 
