@@ -6,7 +6,7 @@ I've joined [Deneb Support initiative](https://deneb-viz.github.io/support).
 
 **Do you need help with Deneb/Vega data visualizations? I'm ready to provide free assistance.**
 
-Create an issue to get help with Deneb/Vega data visualizations.
+Create an issue to get help with Deneb custom visual and/or Vega data visualizations.
 
 Just consider the size of your request. If your requirements are significant, consulting may be more appropriate.
 If unsure whether your inquiry falls under the umbrella of "free assistance", feel free to ask.
