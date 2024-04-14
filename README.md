@@ -56,7 +56,7 @@ More than 10,000 data points have been encoded into this floral cartogram.
 
 All the funcionality (slicers/options, cross-highlightig between multiple charts) has been implemented in Vega specification inside of a single instance of Deneb visual ([try live report](https://app.powerbi.com/view?r=eyJrIjoiNzZmOGVlNmItZGNiNC00NGQzLTk1ZmEtYjFlYzA5MDQzZTFiIiwidCI6IjYzNjBkMTZhLTk3MWQtNGQzMC1hOWE5LTdiY2I0ODUzMDhlMSIsImMiOjl9)).
 
-![Power BI - HR Cross-Functional Mobility v2 01 (by Andrzej Leszkiewicz)](https://github.com/avatorl/Deneb-Vega-Help/assets/59934292/0740e6f6-c5b3-4009-8745-94ac344d3d3a)
+![Power BI Dashboard - HR Cross-Function Mobility v4 (by Andrzej Leszkiewicz)](https://github.com/avatorl/Deneb-Vega-Help/assets/59934292/ab6cc176-72bd-4f20-b861-425ca4e08e29)
 
 ### An interactive Power BI report
 
