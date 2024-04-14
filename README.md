@@ -64,7 +64,7 @@ This report exists in mutiple versions ([try live report](https://app.powerbi.co
 
 #### Dark Mode version (v.1)
 
-![Power BI - Climate Change Dashboard v1](https://github.com/avatorl/Deneb-Vega-Help/assets/59934292/62606ad1-b426-472d-a526-be410b9f0e00)
+![Power BI Dashboard - Climate Change v1 (by Andrzej Leszkiewicz)](https://github.com/avatorl/Deneb-Vega-Help/assets/59934292/01042974-9a01-4a9c-9838-620e528abbbf)
 
 #### Light Mode version (v.4)
 
