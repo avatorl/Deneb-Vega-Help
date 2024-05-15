@@ -25,7 +25,9 @@ Previously solved issues: https://github.com/avatorl/Deneb-Vega-Help/issues?q=is
 Be prepared to clearly describe what you're trying to achieve and the problem; be as descriptive as possible.
 
 ### Provide
-If you have drafted a Vega specification, please provide it. If you can share a .pbix file that includes your Deneb/Vega visualization, share it. If you can't share a .pbix file, share the Vega specification (.json file) and a data sample (.csv file).
+If you have drafted a Vega specification, please provide it (or at least a relevant fragment).
+
+For more complex issues, if you can share a .pbix file that includes your Deneb/Vega visualization, share it. If you can't share a .pbix file, share the Vega specification (.json file) and a data sample (.csv file). If you can't make the files public, email them to me privately at andrzej@powerofbi.org.
 
 ## Disclaimer of Warranties and Limitation of Liability
 
