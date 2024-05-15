@@ -19,6 +19,7 @@ Visit [Deneb Support initiative](https://deneb-viz.github.io/support) page for m
 
 ### Do some research
 Before creating an issue here, check to see if someone else has solved a similar issue.
+Previously solved issues: https://github.com/avatorl/Deneb-Vega-Help/issues?q=is%3Aissue+is%3Aclosed
 
 ### Come prepared
 Be prepared to clearly describe what you're trying to achieve and the problem; be as descriptive as possible.
