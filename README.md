@@ -14,7 +14,7 @@ Visit [Deneb Support](https://deneb-viz.github.io/support) page for more details
 ### Do some research
 Before creating a new issue, check the [Closed Issues](https://github.com/avatorl/Deneb-Vega-Help/issues?q=is%3Aissue+is%3Aclosed) to see if someone else has already solved a similar issue.
 
-Don't forget about Google, AI, and other ways to find a solution.
+Don't forget about other ways to find an existing solution (Google it!).
 
 ### Come prepared
 Be prepared to clearly describe what you're trying to achieve and the problem; be as descriptive as possible.
