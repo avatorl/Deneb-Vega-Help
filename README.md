@@ -36,15 +36,24 @@ Ask other [community experts](https://deneb-viz.github.io/support) if your quest
 
 I'm trying to answer as soon as possible, but I'm sorry if there will be any delays in my responses to your requests. I'm dedicating my own time to this project. There are clients, family, and life offline. No promises or guarantees are made. I will do my best to help you, but I am not responsible for the quality, accuracy, reliability, or any other aspect of my help, and I will not be liable for any damages or losses arising from your use or inability to use my assistance.
 
-## Open Source Examples of my Vega Visualizations
+---
 
-My Github repository of Vega visualizations: https://github.com/avatorl/Deneb-Vega
+## What can be created using Vega (and Deneb to embed Vega visualizations into Power BI)?
 
-My web-site with embedded live Vega vsiualizations: https://powerofbi.org/deneb-vega-data-visualization-examples/
+### Various charts, based on the existing Deneb Templates
+
+![Deneb-Vega FT Visual Vocabulary Templates - Deviation](https://github.com/avatorl/Deneb-Vega-Help/assets/59934292/2610802b-4312-443e-9d44-2c6a738f5e40)
+![Deneb-Vega FT Visual Vocabulary Templates - Flow](https://github.com/avatorl/Deneb-Vega-Help/assets/59934292/dd643b20-d620-457e-867d-901f0eba6310)
 
 My Github repository of Deneb Vega Templates for FT Visual Vocabulary chart types: https://github.com/avatorl/Deneb-Vega-Templates
 
-## What can be created using Vega and Deneb?
+### Highly customized interactive data visualizations
+
+![Music to Data Visualization (by Andrzej Leszkieiwcz)](https://github.com/avatorl/Deneb-Vega-Help/assets/59934292/c284602e-ab7b-466c-ac9a-6201555f87d9)
+
+My web-site with embedded live Vega vsiualizations: https://powerofbi.org/deneb-vega-data-visualization-examples/
+
+My Github repository of Vega visualizations: https://github.com/avatorl/Deneb-Vega
 
 ### A satic poster
 
