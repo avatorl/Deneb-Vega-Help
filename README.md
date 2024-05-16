@@ -1,25 +1,20 @@
 # Deneb Vega Help
 
-My name is Andrzej Leszkiewicz. I create highly customized and interactive data visualizations for Power BI using [Deneb custom visual](https://deneb-viz.github.io/).
+Do you need help with Deneb custom visual for Power BI and/or Vega visualization grammar?
 
-I've joined [Deneb Support initiative](https://deneb-viz.github.io/support).
+[➡️ Create an issue](https://github.com/avatorl/Deneb-Vega-Help/issues/new) to get assistance.
 
-**Do you need help with Deneb/Vega data visualizations? I'm ready to provide free assistance.**
-
-Create an issue to get help with Deneb custom visual and/or Vega data visualizations.
-
-Just consider the size of your request. If your requirements are significant, consulting may be more appropriate.
-If unsure whether your inquiry falls under the umbrella of "free assistance", feel free to ask.
+_*My assistance here is free of charge. However, consider the size of your request. If your requirements are significant, consulting may be more appropriate. If you're unsure whether your inquiry falls under the umbrella of "free assistance," feel free to ask._
 
 ## How to Get Your Question Answered Fast?
 
 ### Get familiar with the initiative
-
-Visit [Deneb Support initiative](https://deneb-viz.github.io/support) page for more details about the initiative and contact information for other Deneb/Vega/Vega-Lite experts
+Visit [Deneb Support](https://deneb-viz.github.io/support) page for more details about the Deneb Support initiative and contact information for other Deneb/Vega/Vega-Lite experts.
 
 ### Do some research
-Before creating an issue here, check to see if someone else has solved a similar issue.
-Previously solved issues: https://github.com/avatorl/Deneb-Vega-Help/issues?q=is%3Aissue+is%3Aclosed
+Before creating a new issue, check the [Closed Issues](https://github.com/avatorl/Deneb-Vega-Help/issues?q=is%3Aissue+is%3Aclosed) to see if someone else has already solved a similar issue.
+
+Don't forget about Google, AI, and other ways to find a solution.
 
 ### Come prepared
 Be prepared to clearly describe what you're trying to achieve and the problem; be as descriptive as possible.
@@ -29,15 +24,17 @@ If you have drafted a Vega specification, please provide it (or at least a relev
 
 For more complex issues, if you can share a .pbix file that includes your Deneb/Vega visualization, share it. If you can't share a .pbix file, share the Vega specification (.json file) and a data sample (.csv file). If you can't make the files public, email them to me privately at andrzej@powerofbi.org.
 
-## Disclaimer of Warranties and Limitation of Liability
-
-I'm sorry if there are any delays in my responses to your requests. I'm dedicating my free time to this project. There are clients, family, and life offline. No promises or guarantees are made. I am not responsible for the quality, accuracy, reliability, or any other aspect of my help. I will not be liable for any damages or losses arising from your use or inability to use my assistance.
-
 ## Vega or Vega-Lite?
 
-Vega-Lite is a syntax sugar for Vega with limited capabilities. I do not work with Vega-Lite; I prefer the full functionality of Vega.
-Feel free to ask any questions regarding Vega, but I'll have to ignore Vega-Lite questions and redirect you to other community experts (see [Deneb Support initiative](https://deneb-viz.github.io/support)) simply because I have never attempted to learn it.
-Vega-Lite compile its specifications to Vega specifications, therefore if you have Vega-Lite code but are okay with converting it into Vega code, let me know.
+Vega-Lite is a syntax sugar for Vega. Vega-Lite has somewhat limited capabilities. I do not work with Vega-Lite; I prefer the full functionality of Vega. Feel free to ask any questions regarding Vega.
+
+Vega-Lite compiles its specifications to Vega specifications, so if you have Vega-Lite code but are okay with converting it into Vega code, let me know.
+
+Ask other [community experts](https://deneb-viz.github.io/support) if your question is exclusively about Vega-Lite.
+
+## Disclaimer of Warranties and Limitation of Liability
+
+I'm trying to answer as soon as possible, but I'm sorry if there will be any delays in my responses to your requests. I'm dedicating my own time to this project. There are clients, family, and life offline. No promises or guarantees are made. I will do my best to help you, but I am not responsible for the quality, accuracy, reliability, or any other aspect of my help, and I will not be liable for any damages or losses arising from your use or inability to use my assistance.
 
 ## Open Source Examples of my Vega Visualizations
 
@@ -73,3 +70,5 @@ This report exists in mutiple versions ([try live report](https://app.powerbi.co
 
 The labels that function as a legend are visible only when the cursor is over the question mark.
 ![Power BI - Climate Change Dashboard v4](https://github.com/avatorl/Deneb-Vega-Help/assets/59934292/4fd2abfa-b12d-4043-a4cd-00a241feda29)
+
+© Andrzej Leszkiewicz
