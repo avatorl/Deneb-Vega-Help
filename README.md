@@ -28,7 +28,7 @@ For more complex issues, if you can share a .pbix file that includes your Deneb/
 
 Vega-Lite is a syntax sugar for Vega. Vega-Lite has somewhat limited capabilities. I do not work with Vega-Lite; I prefer the full functionality of Vega. Feel free to ask any questions regarding Vega.
 
-Vega-Lite compiles its specifications to Vega specifications, so if you have Vega-Lite code but are okay with converting it into Vega code, let me know.
+Vega-Lite compiles its specifications to Vega specifications, so if you have Vega-Lite code but are okay with converting it into Vega code (there is no way back from Vega to Vega-Lite), let me know.
 
 Ask other [community experts](https://deneb-viz.github.io/support) if your question is exclusively about Vega-Lite.
 
