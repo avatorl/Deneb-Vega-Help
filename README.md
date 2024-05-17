@@ -38,6 +38,10 @@ Ask other [community experts](https://deneb-viz.github.io/support) if your quest
 
 I'm trying to answer as soon as possible, but I'm sorry if there will be any delays in my responses to your requests. I'm dedicating my own time to this project. There are clients, family, and life offline. No promises or guarantees are made. I will do my best to help you, but I am not responsible for the quality, accuracy, reliability, or any other aspect of my help, and I will not be liable for any damages or losses arising from your use or inability to use my assistance.
 
+## Sponsorship
+
+If I helped you with what you needed for a commercial projects or if you just want to say thank you, feel free to click the Sponsor button.
+
 ---
 
 ## What can be created using Vega (and Deneb to embed Vega visualizations into Power BI)?
