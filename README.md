@@ -2,7 +2,7 @@
 
 Do you need help with Deneb custom visual for Power BI and/or Vega visualization grammar?
 
-[➡️ Create an issue](https://github.com/avatorl/Deneb-Vega-Help/issues/new) to get assistance.
+[➡️ Create an issue](https://github.com/avatorl/Deneb-Vega-Help/issues/new) to get assistance from Deneb community expert Andrzej Leszkiewicz*.
 
 _*My assistance here is free of charge. However, consider the size of your request. If your requirements are significant, consulting may be more appropriate. If you're unsure whether your inquiry falls under the umbrella of "free assistance," feel free to ask._
 
