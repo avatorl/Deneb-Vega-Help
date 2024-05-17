@@ -2,9 +2,7 @@
 
 Do you need help with Deneb custom visual for Power BI and/or Vega visualization grammar?
 
-[➡️ Create an issue](https://github.com/avatorl/Deneb-Vega-Help/issues/new) to get assistance from Deneb community expert Andrzej Leszkiewicz*.
-
-_*My assistance here is free of charge. However, consider the size of your request. If your requirements are significant, consulting may be more appropriate. If you're unsure whether your inquiry falls under the umbrella of "free assistance," feel free to ask._
+[➡️ Create an issue](https://github.com/avatorl/Deneb-Vega-Help/issues/new) to get assistance from Deneb community expert Andrzej Leszkiewicz.
 
 ## How to Get Your Question Answered Fast?
 
@@ -15,6 +13,10 @@ Visit [Deneb Support](https://deneb-viz.github.io/support) page for more details
 Before creating a new issue, check the [Closed Issues](https://github.com/avatorl/Deneb-Vega-Help/issues?q=is%3Aissue+is%3Aclosed) to see if someone else has already solved a similar issue.
 
 Don't forget about other ways to find an existing solution (Google it!).
+
+### Consider the size of your request
+
+My assistance here is free of charge. However, consider the size of your request. If your requirements are significant, consulting may be more appropriate. If you're unsure whether your inquiry falls under the umbrella of "free assistance," feel free to ask.
 
 ### Come prepared
 Be prepared to clearly describe what you're trying to achieve and the problem; be as descriptive as possible.
@@ -79,5 +81,7 @@ This report exists in mutiple versions ([try live report](https://app.powerbi.co
 
 The labels that function as a legend are visible only when the cursor is over the question mark.
 ![Power BI - Climate Change Dashboard v4](https://github.com/avatorl/Deneb-Vega-Help/assets/59934292/4fd2abfa-b12d-4043-a4cd-00a241feda29)
+
+---
 
 © Andrzej Leszkiewicz
