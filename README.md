@@ -7,9 +7,11 @@ Do you need help with Deneb custom visual for Power BI and/or Vega visualization
 ## How to Get Your Question Answered Fast?
 
 ### Get familiar with the initiative
+
 Visit [Deneb Support](https://deneb-viz.github.io/support) page for more details about the Deneb Support initiative and contact information for other Deneb/Vega/Vega-Lite experts.
 
 ### Do some research
+
 Before creating a new issue, check the [Closed Issues](https://github.com/avatorl/Deneb-Vega-Help/issues?q=is%3Aissue+is%3Aclosed) to see if someone else has already solved a similar issue.
 
 Don't forget about other ways to find an existing solution (Google it!).
@@ -19,14 +21,16 @@ Don't forget about other ways to find an existing solution (Google it!).
 My assistance here is free of charge. However, consider the size of your request. If your requirements are significant, consulting may be more appropriate. If you're unsure whether your inquiry falls under the umbrella of "free assistance," feel free to ask.
 
 ### Come prepared
+
 Be prepared to clearly describe what you're trying to achieve and the problem; be as descriptive as possible.
 
 ### Provide
+
 If you have drafted a Vega specification, please provide it (or at least a relevant fragment).
 
-For more complex issues, if you can share a .pbix file that includes your Deneb/Vega visualization, share it. If you can't share a .pbix file, share the Vega specification (.json file) and a data sample (.csv file). If you can't make the files public, email them to me privately at andrzej@powerofbi.org.
+For more complex issues, if you can share a .pbix file that includes your Deneb/Vega visualization, share it. If you can't share a .pbix file, share the Vega specification (.json file) and a data sample (.csv file). If you can't make the files public, email them to me privately at [andrzej@powerofbi.org](mailto:andrzej@powerofbi.org).
 
-## Vega or Vega-Lite?
+### Vega or Vega-Lite?
 
 Vega-Lite is a syntax sugar for Vega. Vega-Lite has somewhat limited capabilities. I do not work with Vega-Lite; I prefer the full functionality of Vega. Feel free to ask any questions regarding Vega.
 
