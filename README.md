@@ -63,7 +63,7 @@ My Github repository of Deneb Vega Templates for FT Visual Vocabulary chart type
 
 My web-site with embedded live Vega vsiualizations: https://powerofbi.org/deneb-vega-data-visualization-examples/
 
-My Github repository of Vega visualizations: https://github.com/avatorl/Deneb-Vega
+My Github repository of Vega visualizations: https://github.com/avatorl/DataViz-Vega
 
 ### A satic poster
 
